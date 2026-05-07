@@ -73,7 +73,7 @@ The Smart Fire Alarm System is an ESP32-based mini project designed to detect fi
 ## Developed By
 
 This project was developed by:
-- [Snehit Sabale]
-- [Sanket Shelar]
-- [Shambhuraje Shinde]
-- [Prathamesh Shirke]
+- Snehit Sabale
+- Sanket Shelar
+- Shambhuraje Shinde
+- Prathamesh Shirke
