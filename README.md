@@ -3,7 +3,7 @@ The Smart Fire Alarm System is an ESP32-based mini project designed to detect fi
 
 ---
 
-## 📌 Features
+## Features
 - Fire and smoke detection
 - Real-time monitoring
 - Buzzer alert system
@@ -12,7 +12,7 @@ The Smart Fire Alarm System is an ESP32-based mini project designed to detect fi
 
 ---
 
-## 🛠 Components Used
+## Components Used
 - Arduino UNO
 - Flame Sensor
 - MQ-2 Smoke Sensor
@@ -26,18 +26,18 @@ The Smart Fire Alarm System is an ESP32-based mini project designed to detect fi
 
 ---
 
-## ⚙️ Working
+## Working
 1. Sensors continuously monitor fire and smoke levels.
 2. Arduino processes sensor data.
 3. If fire/smoke is detected:
-   - 🔴 Red LED turns ON
-   - 🔔 Buzzer activates
+   -  Red LED turns ON
+   -  Buzzer activates
 4. Under normal conditions:
-   - 🟢 Green LED remains ON
+   -  Green LED remains ON
 
 ---
 
-## 🔌 Connections
+## Connections
 
 | Component |
 |---|
@@ -49,12 +49,12 @@ The Smart Fire Alarm System is an ESP32-based mini project designed to detect fi
 
 ---
 
-## 💻 Software Used
+## Software Used
 - Arduino IDE
 
 ---
 
-## 🚀 Applications
+## Applications
 - Home Safety
 - Offices
 - Laboratories
@@ -62,7 +62,7 @@ The Smart Fire Alarm System is an ESP32-based mini project designed to detect fi
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 - GSM alert system
 - IoT monitoring
 - Mobile app notifications
@@ -70,10 +70,9 @@ The Smart Fire Alarm System is an ESP32-based mini project designed to detect fi
 
 ---
 
-## 👨‍💻 Developed By
+## Developed By
 
 This project was developed by:
-
 - [Snehit Sabale]
 - [Sanket Shelar]
 - [Shambhuraje Shinde]
