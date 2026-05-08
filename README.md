@@ -70,6 +70,11 @@ The Smart Fire Alarm System is an ESP32-based mini project designed to detect fi
 
 ---
 
+## Project Video
+(https://www.linkedin.com/posts/snehit-sabale-09916b2a3_esp32-arduino-iot-ugcPost-7458224016739172352-j005?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEksLLUBohRf2OnimU1SGsE97VY9fP3oDcc)
+
+---
+
 ## Developed By
 
 This project was developed by:
